@@ -5,6 +5,7 @@
 2. на два человека
 3. моя
 ---
-| sprite1 | srite2 | backgroung |
+	| Syntax | Description |
 | ----------- | ----------- |
-| игрок | игрок | фон |
+| Header | Title |
+| Paragraph | Text |
