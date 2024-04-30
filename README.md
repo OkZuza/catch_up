@@ -5,7 +5,5 @@
 2. на два человека
 3. моя
 ---
-	| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+все файлы нужны
+----
